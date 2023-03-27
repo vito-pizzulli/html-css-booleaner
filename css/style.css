@@ -41,7 +41,29 @@ ul {
     background-color: yellow;
 }
 
-.small {
+.bluerow {
+    background-color: rgb(24, 159, 255);
+    color: white;
+    font-weight: bold;
+}
+
+.lightbluerow {
+    background-color: lightblue;
+}
+
+.smallcolumn {
+    width: 300px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.largecolumn {
+    width: 500px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.smalltext {
     font-size: 0.80em;
 }
 
