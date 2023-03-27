@@ -15,6 +15,10 @@ header {
     margin: 0;
 }
 
+footer {
+    margin: 10px;
+}
+
 img {
     margin-top: 20px;
 }
@@ -22,6 +26,11 @@ img {
 h1 {
     margin: 0;
     font-size: 3em;
+}
+
+h2 {
+    padding: 10px;
+    padding-bottom: 0;
 }
 
 ul {
@@ -37,13 +46,21 @@ ul {
     color: rgb(34, 192, 255);
 }
 
+.whitetext {
+    color: white;
+}
+
 .yellowbacktext {
     background-color: yellow;
 }
 
+
+.smalltext {
+    font-size: 0.80em;
+}
+
 .bluerow {
     background-color: rgb(24, 159, 255);
-    color: white;
     font-weight: bold;
 }
 
@@ -63,8 +80,17 @@ ul {
     vertical-align: middle;
 }
 
-.smalltext {
-    font-size: 0.80em;
+.footerimages {
+    width: 312px;
+    height: 208px;
+}
+
+.monitorimage {
+    background-image: url(../img/monitor.jpg);
+}
+
+.graphimage {
+    background-image: url(../img/graph.jpg);
 }
 
 .logo {
