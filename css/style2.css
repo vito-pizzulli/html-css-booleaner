@@ -15,14 +15,14 @@ header {
 }
 
 main {
-    margin-left: 15%;
+    margin-left: 25%;
     margin-top: 20px;
     width: 50%;
 }
 
 footer {
-    margin-left: 15%;
-    width: 50;
+    margin-left: 25%;
+    width: 50%;
 }
 
 img {
@@ -98,6 +98,6 @@ h2 {
 .logo {
     width: 350px;
     position: absolute;
-    margin-left: 15%;
+    margin-left: 25%;
     bottom: 10px;
 }
