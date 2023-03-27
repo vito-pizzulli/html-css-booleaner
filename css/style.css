@@ -10,22 +10,18 @@ header {
     background-image: url(../img/pattern.png);
     background-color: rgb(61, 165, 255);
     background-position: top;
-    height: 170px;
+    height: 140px;
     position: relative;
     margin: 0;
 }
 
-h1 {
-    font-size: 4em;
-    margin: 0;
-}
-
-span {
-    font-size: 1.5em;
-}
-
 img {
-    margin-top: 10px;
+    margin-top: 20px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 4em;
 }
 
 .greytext {
@@ -36,8 +32,12 @@ img {
     color: rgb(34, 192, 255);
 }
 
+.yellowbacktext {
+    background-color: yellow;
+}
+
 .small {
-    font-size: 1.1em;
+    font-size: 0.80em;
 }
 
 .logo {
