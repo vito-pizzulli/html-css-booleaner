@@ -100,6 +100,6 @@ h2 {
 .logo {
     width: 350px;
     position: absolute;
-    left: 5px;
+    margin-left: 20%;
     bottom: 10px;
 }
