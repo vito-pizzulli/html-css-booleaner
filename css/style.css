@@ -2,6 +2,10 @@ body {
     margin: 0;
 }
 
+main {
+    margin: 10px;
+}
+
 header {
     background-image: url(../img/pattern.png);
     background-color: rgb(61, 165, 255);
@@ -19,6 +23,10 @@ h1 {
 span {
     color: grey;
     font-size: 1.5em;
+}
+
+img {
+    margin-top: 10px;
 }
 
 .highlight {
