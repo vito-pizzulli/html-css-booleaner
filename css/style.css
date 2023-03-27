@@ -12,6 +12,24 @@ header {
     margin: 0;
 }
 
+h1 {
+    font-size: 4em;
+    margin: 0;
+}
+
+span {
+    color: grey;
+    font-size: 1.5em;
+}
+
+.highlight {
+    color: rgb(34, 192, 255);
+}
+
+.small {
+    font-size: 1.2em;
+}
+
 .logo {
     width: 20%;
     position: absolute;
