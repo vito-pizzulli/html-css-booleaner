@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-image: url(../img/pattern.png);
+    background-color: rgb(61, 165, 255);
+    background-position: top;
+    width: 100vw;
+    height: 23vh;
+    position: relative;
+    margin: 0;
+}
+
+.logo {
+    width: 20%;
+    position: absolute;
+    left: 5px;
+    bottom: 10px;
+}
